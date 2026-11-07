@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Prelisting-package/
+Disallow: /tanglewood-phase2-briefing/
+
+Sitemap: https://homes.smarterrealestate.ca/sitemap.xml
